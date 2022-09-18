@@ -9,7 +9,9 @@ I'm a backend developer | golang | node.js
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=wildanfaz
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wildanfaz&theme=dark&background=000000)](https://git.io/streak-stats)
+
 Backend
 -
 Golang, PostgreSQL, GORM, Gorilla/mux
