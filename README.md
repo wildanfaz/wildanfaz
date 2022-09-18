@@ -9,8 +9,9 @@ I'm a backend developer | golang | node.js
 ---
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
