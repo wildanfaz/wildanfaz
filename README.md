@@ -6,6 +6,10 @@ I'm a backend developer | golang | node.js
 
 
 ## 🛠 Skills
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=wildanfaz
 Backend
 -
 Golang, PostgreSQL, GORM, Gorilla/mux
