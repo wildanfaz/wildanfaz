@@ -9,7 +9,7 @@ I'm a backend developer | golang | node.js
 ---
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanfaz)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=wildanfaz&show_icons=true
 
 Backend
 -
