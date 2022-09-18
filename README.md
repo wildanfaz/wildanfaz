@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @wildanfaz
-- 👀 I’m interested in javascript and golang
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on golang's project
-- 📫 How to reach me 
-- ig : @wildan_faz
 
-<!---
-wildanfaz/wildanfaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Muhamad Wildan Faz! 👋
+
+
+## 🚀 About Me
+I'm a backend developer | golang | node.js
+
+
+## 🛠 Skills
+Backend
+-
+Golang, PostgreSQL, GORM
+
+JavaScript, PostgreSQL, Node.js
+
+## Github Profile Sections
+💬 Wanna ask with me?
+
+📫 How to reach me...
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadwildanfaz/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wildan_faz/)
