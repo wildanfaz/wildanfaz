@@ -10,8 +10,6 @@ I'm a backend developer | golang | node.js
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wildanfaz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanfaz&show_icons=true&theme=dark)
