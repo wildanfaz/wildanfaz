@@ -7,6 +7,9 @@ I'm a backend developer | golang | node.js
 
 ## 🛠 Skills
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :fire: My Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildanfaz&show_icons=true)
