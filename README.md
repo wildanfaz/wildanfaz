@@ -9,9 +9,9 @@ I'm a backend developer | golang | node.js
 ## 🛠 Skills
 Backend
 -
-Golang, PostgreSQL, GORM
+Golang, PostgreSQL, GORM, Gorilla/mux
 
-JavaScript, PostgreSQL, Node.js
+JavaScript, PostgreSQL, Node.js, Express.js
 
 ## Github Profile Sections
 💬 Wanna ask with me?
