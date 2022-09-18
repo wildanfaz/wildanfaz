@@ -7,6 +7,7 @@ I'm a backend developer | golang | node.js
 
 ## 🛠 Skills
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/wildanfaz/github-readme-stats)
 
 ### :fire: My Stats :
 
