@@ -1,5 +1,8 @@
 # Hi, I'm Muhamad Wildan Faz! 👋
 
+## 🚀 About Me
+I'm a backend developer | golang | node.js
+
 ## Portfolio
 ### 1. Vehicle Rental App
 ### Frontend
@@ -11,10 +14,6 @@ https://github.com/wildanfaz/fe_vehiclerental
 ```bash
 https://github.com/wildanfaz/be_vehiclerental
 ```
-
-## 🚀 About Me
-I'm a backend developer | golang | node.js
-
 
 ## 🛠 Skills
 ---
