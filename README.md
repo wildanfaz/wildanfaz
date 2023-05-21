@@ -19,7 +19,7 @@ During my time at Privy, I have gained valuable experience in working on real-wo
 
 ## 🛠️ Skills
 
-- Programming Languages: Go
+- Programming Language: Go
 - Web Technologies: RESTful APIs, JSON, HTTP, gRPC, Microservices, Websocket, graphQL
 - Databases: MySQL, PostgreSQL
 - Version Control: Git
