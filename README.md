@@ -14,6 +14,7 @@ As a backend developer at Privy, my responsibilities include:
 - Designing and optimizing databases to meet the needs of the applications.
 - Implementing RESTful APIs and integrating them with frontend systems.
 - Collaborating with cross-functional teams to deliver high-quality software solutions.
+
 During my time at Privy, I have gained valuable experience in working on real-world projects and contributing to the growth of the company.
 
 ## 🛠️ Skills
