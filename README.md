@@ -24,7 +24,6 @@ During my time at Privy, I have gained valuable experience in working on real-wo
 - Databases: MySQL, PostgreSQL
 - Version Control: Git
 
-## 🛠 Skills
 ---
 
 <div>
