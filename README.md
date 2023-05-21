@@ -1,7 +1,7 @@
 # Hi, I'm Muhamad Wildan Faz! 👋
 
 ## 🚀 About Me
-I am a junior backend developer at Privy with a passion for crafting efficient and robust server-side applications. My expertise lies in working with Go programming language, where I have honed my skills in RESTful API design and database architecture. I am committed to delivering clean, scalable, and maintainable code that fulfills project requirements.
+I am a junior backend developer at Privy. My job involves maintaining server-side applications, databases, and APIs. Proficient in Go programming language and have a strong understanding of RESTful API design and database architecture. Dedicated to writing clean, scalable, and maintainable code that meets project requirements.
 
 ## 💼 Work Experience
 
@@ -18,12 +18,10 @@ During my time at Privy, I have gained valuable experience in working on real-wo
 
 ## 🛠️ Skills
 
-- Programming Languages: Go, Python, JavaScript
-- Web Technologies: RESTful APIs, JSON, HTTP
-- Databases: MySQL, PostgreSQL, MongoDB
+- Programming Languages: Go
+- Web Technologies: RESTful APIs, JSON, HTTP, gRPC, Microservices, Websocket, graphQL
+- Databases: MySQL, PostgreSQL
 - Version Control: Git
-- Testing: Unit Testing, Test-driven Development (TDD)
-- Software Development: Agile Methodologies, Scrum
 
 ## 🛠 Skills
 ---
