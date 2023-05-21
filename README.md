@@ -41,11 +41,6 @@ During my time at Privy, I have gained valuable experience in working on real-wo
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wildanfaz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-Backend Stack
--
-Golang, PostgreSQL, GORM, Gorilla/mux
-
-JavaScript, PostgreSQL, Node.js, Express.js
 
 ## Github Profile Sections
 💬 Wanna ask with me?
