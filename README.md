@@ -1,30 +1,7 @@
 # Hi, I'm Muhamad Wildan Faz! 👋
 
 ## 🚀 About Me
-I'm a backend developer | golang | node.js
-
-## Portfolio
-### 1. Vehicle Rental App
-### Netlify
-```bash
-https://fazdev-vehiclerental.netlify.com
-```
-
-### Frontend
-```bash
-https://github.com/wildanfaz/fe_vehiclerental
-```
-
-### Backend
-```bash
-https://github.com/wildanfaz/be_vehiclerental
-```
-
-### 2. Tickitz App
-### Backend
-```bash
-https://github.com/wildanfaz/tickitz
-```
+I'm a junior backend developer at Privy
 
 ## 🛠 Skills
 ---
