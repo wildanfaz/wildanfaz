@@ -35,9 +35,6 @@ During my time at Privy, I have gained valuable experience in working on real-wo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildanfaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
 ## Github Profile Sections
 💬 Wanna ask with me?
 
