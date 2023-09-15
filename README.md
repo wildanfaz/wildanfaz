@@ -6,7 +6,7 @@ I am a junior backend developer at Privy. My job involves maintaining server-sid
 ## 💼 Work Experience
 
 **PT. Privy Identitas Digital** \
-*December 2022 - Now*
+*December 2022 - August 2023*
 
 As a backend developer at Privy, my responsibilities include:
 
